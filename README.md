@@ -64,10 +64,9 @@ This repository provides a comprehensive guide to set up your system for the Bla
 
 ---
 
-## **5. Set Up GitHub Organization**
+## **5. Join the Blazers Organization**
 
-1. **Create Organization:** Set up a GitHub organization named `@Alhameen`.
-2. **Collaboration:** Share repository access with team members.
+1. **Collaboration:** Share repository access with team members.
 
 ---
 
